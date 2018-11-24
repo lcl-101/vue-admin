@@ -191,6 +191,6 @@ module.exports = {
       objectsInObjects: false
     }],
     'array-bracket-spacing': [2, 'never'],
-    "vue/html-self-closing": "off"
+    "vue/html-self-closing": "off" 
   }
 }
